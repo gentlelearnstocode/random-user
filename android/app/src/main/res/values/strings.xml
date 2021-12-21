@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">RandomUser</string>
+    <string name="title_activity_main">RandomUser</string>
+    <string name="package_name">org.example.RandomUser</string>
+    <string name="custom_url_scheme">org.example.RandomUser</string>
+</resources>

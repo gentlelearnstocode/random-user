@@ -1,0 +1,6 @@
+{
+	"appId": "org.example.RandomUser",
+	"appName": "RandomUser",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
